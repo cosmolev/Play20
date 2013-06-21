@@ -33,6 +33,7 @@ public class Countries {
         all.add("Portugal");
         all.add("Reunion");
         all.add("Romania");
+        all.add("Russia");
         all.add("Slovak (Republic)");
         all.add("Slovenia");
         all.add("Spain");
